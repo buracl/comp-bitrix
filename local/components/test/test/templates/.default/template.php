@@ -23,7 +23,7 @@ $APPLICATION->IncludeComponent('bitrix:main.ui.grid', '', [
     'SHOW_NAVIGATION_PANEL'     => true,
     'SHOW_PAGINATION'           => true,
     'SHOW_SELECTED_COUNTER'     => false,
-    'SHOW_TOTAL_COUNTER'        => true,
+    'SHOW_TOTAL_COUNTER'        => false,
     'SHOW_PAGESIZE'             => true,
     'SHOW_ACTION_PANEL'         => true,
     'ACTION_PANEL'              => [],
